@@ -26,6 +26,6 @@
       "transform": ["reactify"]
   },
   "devDependencies": {
-    "react": "^0.13.1"
+    "react": "^15.3.2"
   }
 }
